@@ -1,2 +1,3 @@
-# ima-pi
-Actividad IMA
+```html
+Aplicación para escribir pi
+```
