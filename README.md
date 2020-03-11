@@ -3,9 +3,8 @@
       alt="drawing" width="90" align="right" />
  </h1>
  
-Descargue la versión acorde a su sistema operativo:
+Descargue la versión acorde a su sistema operativo haciendo click en Clone or Download.
 
-- **ima-pi** (Windows)
 
 <img src="ima-pi/img/Dia-de-Pi-2020-web-intro.png"
      style="float: right;" alt="drawing"  />
