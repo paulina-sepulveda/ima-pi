@@ -3,7 +3,7 @@
       alt="drawing" width="90" align="right" />
  </h1>
  
-* Descargue la versión acorde a su sistema operativo haciendo click en Clone or Download: Download zip.
+* Descargue la versión Windows haciendo click en Clone or Download: Download zip.
 * Descomprima en una carpeta local
 * Ejecute el archivo **ima-pi**
 
